@@ -14,6 +14,11 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 	<head>
 		<BaseHead title={title} description={description} />
 		<style>
+			body {
+				text-align: justify;
+				font-family: "Roboto Slab";
+			}
+
 			.title {
 				font-size: 2em;
 				margin: 0.25em 0 0;
