@@ -4,11 +4,11 @@
   License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
  */
 body {
-	font-family: Verdana, sans-serif;
+	font-family: "Roboto", Verdana, sans-serif;
 	margin: auto;
 	padding: 20px;
 	max-width: 65ch;
-	text-align: left;
+	text-align: justify;
 	background-color: #fff;
 	word-wrap: break-word;
 	overflow-wrap: break-word;
