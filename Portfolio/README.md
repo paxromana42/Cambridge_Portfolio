@@ -1,10 +1,10 @@
 # Cambridge Studies in Science - Honours
 
->Instructor: Laurel Robinson 
->Office: WCC Valhalla Campus Science 352 
->Office Phone: ---
->Email: --- 
->Spring 2023 Office Hours: TBD
+>Instructor: Laurel Robinson  
+>Office: WCC Valhalla Campus Science 352  
+>Office Phone: ---  
+>Email: ---  
+>Spring 2023 Office Hours: TBD  
 
 ## What is this course? 
 

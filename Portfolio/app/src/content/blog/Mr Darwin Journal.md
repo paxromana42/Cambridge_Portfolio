@@ -8,7 +8,6 @@ heroImage: "/placeholder-hero.jpg"
 
 Name: Erick Almeida  
 Class: Cambridge Science Honour's Programme  
-Mod: 14 May 2023
 
 # The Reluctant Mr Darwin
 
@@ -18,11 +17,13 @@ The book begins with a description of Darwin's childhood and education, explorin
 
 Taking his experiences on the Beagle to heart, Darwin faces difficulty with his health and the deep doubts he harboured about his own abilities. Despite these challenges, Darwin persevered. Quammen describes the evolution of his thinking as he developed his theory of evolution by natural selection in the midst of this confusion.  
 
-Kiwi Egg
-
-
+One of the way Darwin did this was through his observations on Kiwi eggs, as they made little sense to Darwin prima facia. His experiences as a writer, his journal from his time on the Beagle were becoming popular, drove him to try to develop these ideas more directly. Darwin uses where began to use his experiences to write the following observation, "In the view of life with its powers of growth, assimilation and reproduction, [...] through the process of gradual selection of infinitesimal changes, endless forms most beautiful and most wonderful have been evolved" (pp. 60-61).
 
 Point of Attachment
+
+In spite of all these achievements, Darwin stumbled. From 1844-59, Darwin did nothing towards advocating for his findings. Quammen goes through a number of reason why—religion, class, family, politics— and how each ate away into Darwin's commitment to his own ideas. While he might have published surrounding date about his trip, his hesitancy about publishing on the *Origin of Species*[^1] ultimately drives much speculation about this time period. His family's health, other studies and   
+
+
 
 A Duck for Mr Darwin
 
@@ -37,8 +38,10 @@ The Last Beetle
  
 Overall, *The Reluctant Mr. Darwin* provides a rich and nuanced understanding of one of the most important figures in the history of science. Whether you are a student of biology or simply interested in the history of ideas, this book is an engaging and enlightening read. While some of the author's biases become clear early on, especially in his rant on anti-anthropology revolution and how it needs to permeate all levels of society, he still fairly objective in his portrayal of Darwin and his life.
 
-
 # References
 
-
 Quammen, D. (2007). *The Reluctant Mr. Darwin: An Intimate Portrait of Charles Darwin and the Making of His Theory of Evolution* (Reprint ed.). W.W. Norton & Company.
+
+# Notes
+
+ [^1]: Quammen references *On the Origin of Species* as a work, while it's not published yet. I don't know if this is anachronistic or if the extended essay had this same title.
