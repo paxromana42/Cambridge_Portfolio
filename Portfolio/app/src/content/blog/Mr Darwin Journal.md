@@ -2,7 +2,7 @@
 title: "The Reluctant Mr Darwin"
 description: "A reading Journal of the Quammen book on Darwin's Life"
 pubDate: "30 April 2023"
-updatedDate: "14 May 2023"
+updatedDate: "15 May 2023"
 heroImage: "/placeholder-hero.jpg"
 ---
 
