@@ -2,7 +2,7 @@
 title: "Isaac Newton"
 description: "A reading Journal of the Gleick's book Isaac Newton"
 pubDate: "31 March 2023"
-updatedDate: "11 May 2023"
+updatedDate: "15 May 2023"
 heroImage: "/placeholder-hero.jpg"
 ---
 
@@ -20,13 +20,6 @@ Gleick focuses on how Newton's ideas became widespread. Notably, his interaction
 
 Overall, Isaac Newton is a well-written and informative biography that sheds light on the life and work of one of the most important figures in the history of science. Gleick's thorough research and engaging writing style make the book an enjoyable and enlightening read. It was definitely worth it to delve into it for this reading journal.  
 
-</div>
-
 # References
 
-<div style="text-align:justify">
-
 Gleick, J. (2003). *Isaac Newton*. Pantheon Books.
-
-</div>
-
