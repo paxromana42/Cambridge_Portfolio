@@ -3,7 +3,7 @@ title: "Isaac Newton"
 description: "A reading Journal of the Gleick's book Isaac Newton"
 pubDate: "31 March 2023"
 updatedDate: "15 May 2023"
-heroImage: "/placeholder-hero.jpg"
+heroImage: "/Issac Newton.jpg"
 ---
 
 *Isaac Newton*, written by James Gleick and published in 2003 by Pantheon Books, is a comprehensive biography of the great mathematician and physicist. It covers Newton's early years, his education, his work on the laws of motion, his discovery of calculus, his theories of light and his contributions to the study of gravity.  

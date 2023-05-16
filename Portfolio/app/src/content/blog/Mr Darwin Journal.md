@@ -3,7 +3,7 @@ title: "The Reluctant Mr Darwin"
 description: "A reading Journal of the Quammen book on Darwin's Life"
 pubDate: "30 April 2023"
 updatedDate: "15 May 2023"
-heroImage: "/placeholder-hero.jpg"
+heroImage: "/Mr Darwin.jpg"
 ---
 
 *The Reluctant Mr. Darwin* is a comprehensive biography of Charles Darwin written by David Quammen, an award-winning science writer. The book offers a fascinating, detailed look into the life and work of one of the most influential figures in the history of science. Quammen traces Darwin's journey from a young man with an interest in natural history to the author of *On the Origin of Species* in simple but direct language, making Darwin's influence on history evident and far-reaching.  
